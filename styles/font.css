@@ -1,0 +1,47 @@
+@font-face {
+  font-family: Retina;
+  font-display: swap;
+  src: url(/assets/fonts/Retina-Book-subset.woff2) format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Retina;
+  font-display: swap;
+  src: url(/assets/fonts/Retina-BookItalic-subset.woff2) format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Retina;
+  font-display: swap;
+  src: url(/assets/fonts/Retina-Bold-subset.woff2) format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Retina;
+  font-display: swap;
+  src: url(/assets/fonts/Retina-BoldItalic-subset.woff2) format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: Register;
+  font-display: swap;
+  src: url(/assets/fonts/Register-Heavy-subset.woff2) format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Register;
+  font-display: swap;
+  src: url(/assets/fonts/Register-HeavyItalic-subset.woff2) format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
